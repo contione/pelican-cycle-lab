@@ -5,5 +5,12 @@
     "date": "2026.09.17",
     "testedAt": "2026-09-17T00:06:35+08:00",
     "path": "versions/2026-09-17-gpt-6-astra.html"
+  },
+  {
+    "id": "2026-11-20-gpt-6.2-astra",
+    "model": "gpt-6.2-astra",
+    "date": "2026.11.20",
+    "testedAt": "2026-11-20T00:12:04+08:00",
+    "path": "versions/2026-11-20-gpt-6.2-astra.html"
   }
 ]
